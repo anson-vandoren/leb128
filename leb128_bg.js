@@ -1,4 +1,4 @@
-import * as wasm from './leb_128_bg.wasm';
+import * as wasm from './leb128_bg.wasm';
 
 let cachedUint8Memory0 = new Uint8Array();
 
