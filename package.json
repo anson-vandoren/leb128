@@ -1,0 +1,16 @@
+{
+  "name": "leb-128",
+  "collaborators": [
+    "Anson VanDoren <anson.vandoren@gmail.com>"
+  ],
+  "version": "0.1.0",
+  "files": [
+    "leb_128_bg.wasm",
+    "leb_128.js",
+    "leb_128_bg.js",
+    "leb_128.d.ts"
+  ],
+  "module": "leb_128.js",
+  "types": "leb_128.d.ts",
+  "sideEffects": false
+}
